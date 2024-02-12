@@ -1,3 +1,7 @@
+## Author : ARUNKUMAAR R
+## Description : Creating Transit Gateway in AWS
+## Date : 12/02/24
+## Language : HCL   
 
 # Create VPC1
 resource "aws_vpc" "vpc1" {

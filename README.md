@@ -1,2 +1,2 @@
 # TERRAFORM
-All my terraform files are here
+This repository is all about Terraform codes to provision and manage AWS Infrastructure.

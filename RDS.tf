@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR
+## Description : Creating RDS in AWS
+## Date : 12/02/24
+## Language : HCL   
+
 resource "aws_db_subnet_group" "mine_sbg" {
   name       = "mine-subnet"
   subnet_ids = [

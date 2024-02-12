@@ -1,3 +1,7 @@
+## Author : ARUNKUMAAR R
+## Description : Creating VPC in AWS - Part2
+## Date : 12/02/24
+## Language : HCL   
 
 resource "aws_eip" "my-eip" {
   domain   = "vpc"

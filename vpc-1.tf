@@ -1,3 +1,7 @@
+## Author : ARUNKUMAAR R
+## Description : Creating VPC IN AWS - Part1
+## Date : 12/02/24
+## Language : HCL   
 
 resource "aws_vpc" "tetra_vpc" {
   cidr_block       = "10.0.0.0/16"

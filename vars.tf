@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR R
+## Description : Variable file 
+## Date : 12/02/24
+## Language : HCL   
+
 variable "REGION" {
   default = "ap-southeast-1"
 }

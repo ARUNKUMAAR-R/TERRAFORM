@@ -1,4 +1,7 @@
-
+## Author : ARUNKUMAAR R
+## Description : Creating EC2 Instance in AWS
+## Date : 12/02/24
+## Language : HCL   
 
 resource "aws_instance" "Amz" {
   ami           = var.AMIS[var.REGION]

@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR R
+## Description : Creating S3 and Adding files in it.
+## Date : 12/02/24
+## Language : HCL   
+
 resource "aws_s3_bucket" "terraform_files" {
   bucket = "terra-form-files"
   tags = {

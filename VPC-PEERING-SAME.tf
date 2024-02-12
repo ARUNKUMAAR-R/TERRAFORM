@@ -1,3 +1,7 @@
+## Author : ARUNKUMAAR R
+## Description : Creating VPC Peering in AWS
+## Date : 12/02/24
+## Language : HCL   
 
 ############# Creating VPC1 ##########
 resource "aws_vpc" "vpc1" {

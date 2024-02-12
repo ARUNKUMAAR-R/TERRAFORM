@@ -1,3 +1,9 @@
+## Author : ARUNKUMAAR
+## Description : Creating ASG in AWS
+## Date : 12/02/24
+## Language : HCL   
+
+
 ######### KEY PAIR #########
 resource "aws_key_pair" "southeast-key" {
   key_name   = "SG"

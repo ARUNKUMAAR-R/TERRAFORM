@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR
+## Description : Creating Key Pair and Security Group in AWS
+## Date : 12/02/24
+## Language : HCL   
+
 resource "aws_key_pair" "southeast-key" {
   key_name = "SG"
   public_key = file("SG.pub")

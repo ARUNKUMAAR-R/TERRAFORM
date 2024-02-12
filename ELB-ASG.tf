@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR R
+## Description : Creating ELB along with ASB in AWS
+## Date : 12/02/24
+## Language : HCL   
+
 resource "aws_key_pair" "SG-key" {
   key_name   = "SG"
   public_key = file("SG.pub")

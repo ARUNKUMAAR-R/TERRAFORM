@@ -1,4 +1,8 @@
-###### CREATING USER1 #######
+## Author : ARUNKUMAAR R
+## Description : Creating IAM User and Group
+## Date : 12/02/24
+## Language : HCL   
+
 resource "aws_iam_user" "user1" {
   name = "user1"
 }
