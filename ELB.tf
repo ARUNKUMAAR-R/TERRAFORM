@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR R
+## Description : Creating ELB in AWS
+## Date : 12/02/24
+## Language : HCL   
+
 #####AWS ELB Configuration
 resource "aws_elb" "my-elb" {
   name            = "my-elb"
